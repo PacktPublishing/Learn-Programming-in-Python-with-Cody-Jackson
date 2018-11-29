@@ -8,9 +8,8 @@ This is the code repository for [](), published by Packt.
 
 ## What is this book about?
 
-This book covers the following exciting features:
-* 
-* 
+Python is a cross-platform language used by organizations such as Google and NASA. It lets you work quickly and efficiently, allowing you to concentrate on your work rather than the language. Based on his personal experiences when learning to program, Learn Programming in Python with Cody Jackson provides a hands-on introduction to computer programming utilizing one of the most readable programming languages–Python. It aims to educate readers regarding software development as well as help experienced developers become familiar with the Python language, utilizing real-world lessons to help readers understand programming concepts quickly and easily.
+
 * If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789531942) today!
 * 
 * <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
