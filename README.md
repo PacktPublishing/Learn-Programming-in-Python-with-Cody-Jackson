@@ -13,7 +13,9 @@ Python is a cross-platform language used by organizations such as Google and NAS
 This book covers the following exciting features:
 * Use the interactive shell for prototyping and code execution, including variable assignment
 * Deal with program errors by learning when to manually throw exceptions
-
+* Employ exceptions for code management
+* Enhance code by utilizing Python's built-in shortcuts to improve efficiency and make coding easier Interact with files and package Python data for network transfer or storage
+* Understand how tests drive code writing, and vice versa
 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789531942) today!
