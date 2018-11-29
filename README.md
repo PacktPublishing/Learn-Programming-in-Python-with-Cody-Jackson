@@ -11,8 +11,8 @@ This is the code repository for [Learn Programming in Python with Cody Jackson](
 Python is a cross-platform language used by organizations such as Google and NASA. It lets you work quickly and efficiently, allowing you to concentrate on your work rather than the language. Based on his personal experiences when learning to program, Learn Programming in Python with Cody Jackson provides a hands-on introduction to computer programming utilizing one of the most readable programming languages–Python. It aims to educate readers regarding software development as well as help experienced developers become familiar with the Python language, utilizing real-world lessons to help readers understand programming concepts quickly and easily.
 
 This book covers the following exciting features:
-Use the interactive shell for prototyping and code execution, including variable assignment. 
-Deal with program errors by learning when to manually throw exceptions. 
+Use the interactive shell for prototyping and code execution, including variable assignment.
+Deal with program errors by learning when to manually throw exceptions.
 Employ exceptions for code management.
 Enhance code by utilizing Python's built-in shortcuts to improve efficiency and make coding easier Interact with files and package Python data for network transfer or storage.
 Understand how tests drive code writing, and vice versa.
