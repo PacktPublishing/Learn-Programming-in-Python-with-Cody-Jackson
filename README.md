@@ -2,7 +2,7 @@
 
 <a href=""><img src="" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](), published by Packt.
+This is the code repository for [Hands-On Software Engineering with Python](https://www.packtpub.com/application-development/hands-software-engineering-python?utm_source=github&utm_medium=repository&utm_campaign=9781788622011 ), published by Packt.
 
 **Grasp the basics of programming and Python syntax while building real-world applications**
 
