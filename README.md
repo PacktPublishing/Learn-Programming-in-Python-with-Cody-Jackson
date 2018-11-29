@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Cody Jackson**
 is a disabled military veteran, founder of Socius Consulting and co-founder of Top Men Technologies. He is currently employed at CACI International as the lead ICS/SCADA modeling and simulations engineer. He has been involved in the tech industry since 1994, when he left Gateway Computers to join the Navy as a nuclear chemist and radcon technician. Prior to joining CACI, he worked at ECPI University as a Computer Information Systems adjunct professor. He is a self-taught Python programmer, author of Learning to Program Using Python, and Secret Recipes of the Python Ninja. He holds an AS in Electromechanical Technology, a BS in Computer Engineering Technology, and an MS in IT Management, as well as numerous IT certifications.
 
-## Other books by the authors
+## Other books by the author
 [Secret Recipes of the Python Ninja](https://www.packtpub.com/application-development/secret-recipes-python-ninja?utm_source=github&utm_medium=repository&utm_campaign=9781788294874)
 
 ### Suggestions and Feedback
