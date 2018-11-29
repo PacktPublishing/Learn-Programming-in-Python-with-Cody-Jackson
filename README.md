@@ -1,4 +1,5 @@
 # 
+<h1>Learn Programming in Python with Cody Jackson</h1>
 
 <a href=""><img src="" alt="" height="256px" align="right"></a>
 
@@ -7,7 +8,6 @@ This is the code repository for [](), published by Packt.
 **Grasp the basics of programming and Python syntax while building real-world applications**
 
 ## What is this book about?
-0
 
 This book covers the following exciting features:
 * 
