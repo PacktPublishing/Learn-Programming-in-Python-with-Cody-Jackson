@@ -1,4 +1,4 @@
-# Learn Programming in Python with Cody Jackson
+# Learn Programming in Python with Cody Jackson 
 
 <a href=""><img src="" alt="" height="256px" align="right"></a>
 
