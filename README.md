@@ -45,10 +45,8 @@ With the following software and hardware list you can run all code files present
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789531947_ColorImages.pdf).
 
-### Related products
+### Related product
 * Learn Python Programming - Second Edition [[Packt]](https://www.packtpub.com/application-development/learn-python-programming-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788996662) [[Amazon]](https://www.amazon.com/dp/1788996666)
-
-*  [[Packt]](https://www.packtpub.com/application-development/secret-recipes-python-ninja?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788294874)
 
 ## Get to Know the Author
 **Cody Jackson**
