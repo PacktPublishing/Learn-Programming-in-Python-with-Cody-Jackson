@@ -35,13 +35,7 @@ With the following software and hardware list you can run all code files present
 | 2-12 | Python 3.6+ | Windows, Mac OS X, and Linux (Any) |
 | 8 | Python 3.6+, Pytest 3.5+ | Windows, Mac OS X, and Linux (Any) |
 | 12 | Python 3.6+, Kivy 1.10+ | Windows, Mac OS X, and Linux (Any) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789531947_ColorImages.pdf).
 
